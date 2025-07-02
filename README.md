@@ -6,7 +6,9 @@ Started programming in 2017 and has applied technical skills in both engineering
 
 Worked at Ford Motor Company for over a year in Product Development, contributing to vehicle architecture, mechanical engineering issues, UX improvements and global collaboration.
 
-Currently applies backend and DevOps knowledge to freelance projects using Python, Docker, Kubernetes, AWS, Flask, FastAPI and PostgreSQL. 
+Currently applies backend and DevOps knowledge to freelance projects using Python, Docker, Kubernetes, AWS, Flask, FastAPI and PostgreSQL.
+
+---
 
 ### **📲 Social ( 🖱 *click it*! )**
 
