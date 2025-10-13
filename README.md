@@ -2,7 +2,7 @@
 
 Infrastructure engineer experienced in Python. 
 
-Started programming in 2017 and has applied technical skills in both engineering and software projects. 
+Started programming in 2017 and has applied technical and soft skills in a range of engineering projects. 
 
 Worked at Ford Motor Company for over a year in Product Development, contributing to vehicle architecture, mechanical engineering issues, UX improvements and global collaboration.
 
