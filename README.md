@@ -1,6 +1,6 @@
 # **🙋🏻‍♂️ Who is Luciano Pereira?**
 
-Back-End Developer specialized in Python, with experience in backend technologies, infrastructure and DevOps. 
+Infrastructure engineer experienced in Python. 
 
 Started programming in 2017 and has applied technical skills in both engineering and software projects. 
 
